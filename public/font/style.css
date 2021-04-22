@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Yandex Sans';
+    src: local('Yandex Sans Display Thin'), local('Yandex-Sans-Display-Thin'),
+        url('YandexSansDisplay-Thin.woff2') format('woff2'),
+        url('YandexSansDisplay-Thin.woff') format('woff'),
+        url('YandexSansDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+  }

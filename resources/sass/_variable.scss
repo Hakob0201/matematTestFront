@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+// Set your brand colors
+$purple: #8A4D76;
+$pink: #FA7C91;
+$brown: #757763;
+$beige-light: #D0D1CD;
+$beige-lighter: #EFF0EB;
+$neutral-white: #FFFFFF;
+$primary-purple: #211D56;
+$base-purple-50: #908EAB;
+$rainbow-red: #F43457;
+// Update Bulma's global variables
+$family-sans-serif: "Nunito", sans-serif;
+$grey-dark: $brown;
+$grey-light: $beige-light;
+$primary: $white;
+$link: $pink;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+// Update some of Bulma's component variables
+$body-background-color: $beige-lighter;
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+
+
+
+// Carousel
+$carousel-background: linear-gradient(225deg, #F7F5F9 3.26%, #CDDDF4 100%);
+$secondary-aqua: #14B5B5;
+$border-radius: 8px;
+$carusel-height: 480px;
+$carusel-pagination: $primary-purple;
+$carusel-title: $base-purple-50;
+$carusel-sub-title: $rainbow-red;
+
+
+
+// Menu
+
+
+$menu-label-color: $neutral-white!important;
+$menu-item-background: $primary-purple;
+
+$menu-item-hover-color: $neutral-white;
+$menu-item-hover-background-color: $primary-purple;
+$menu-item-background-hover: unset;
+
+$navbar-brand-postition: fixed;
+
+
